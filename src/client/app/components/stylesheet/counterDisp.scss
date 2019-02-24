@@ -1,0 +1,65 @@
+.componentTwo{
+    border:1px solid red;
+    padding:10px;
+    margin:10px;
+}
+
+.component_header{
+    display: inline-block;
+    background-color: #ff6600;
+    width: 100%;
+}
+
+.component_top{
+    display: inline-block;
+    color: #fff;
+    padding: 10px 10px 10px 20px;
+}
+
+
+.component_new{
+    display: inline-block;
+    color: #000;
+}
+
+.comment{
+    width:50px;
+    padding: 0 0 0 20px;
+    display: inline-block;
+}
+
+.points{
+    display: inline-block;
+    cursor: pointer;
+}
+
+.title{
+    display: inline-block;
+    padding: 0 5px;
+}
+
+.textSm{
+    display: inline-block;
+    padding: 0 5px;
+    font-size: 12px;
+}
+
+.text_hide{
+    display: inline-block;
+    padding: 0 5px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.author{
+    display: inline-block;
+    padding: 0 5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.more{
+    cursor: pointer;
+    color: #ff6600;
+    padding: 10px 70px;
+  }
